@@ -33,7 +33,6 @@ Publish the website in the given URL.
 
 
 ```
-
 math.html
 
 <html>
@@ -100,7 +99,6 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </body>
 </html>
 
-
 views.py
 
 from django.shortcuts import render
@@ -141,11 +139,11 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 
-![Alt text](<Screenshot (49).png>)
+![Alt text](<Screenshot (51).png>)
 
 ## HOMEPAGE:
 
-![Alt text](<Screenshot (48).png>)
+![Alt text](<Screenshot (50).png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
